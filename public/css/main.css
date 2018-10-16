@@ -1,0 +1,25 @@
+html{
+    font-size:12px;
+}
+body{
+    background-color:rgba(0,0,0,0.8);
+    color:#fff;
+    margin:0;
+    padding:0;
+}
+a,p,div,ul,li,ol,h1,h2,h3,h4,h5,h6{
+    padding:0;
+    margin:0;
+}
+.margin_top_25{
+    margin-top:2rem;
+}
+#login{
+    display:none;
+}
+a{
+    cursor: pointer;
+}
+.error{
+    color: red;
+}
